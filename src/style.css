@@ -96,3 +96,7 @@ hr {
 .current-conditions {
   margin-right: 18px;
 }
+.note {
+  text-align: center;
+  margin-top: -50px;
+}
